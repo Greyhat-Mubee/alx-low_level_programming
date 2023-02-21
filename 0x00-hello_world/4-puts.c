@@ -2,6 +2,8 @@
 /**
  * main - Entry point
  *
+ * Return: Always 0 (Success)
+ *
  * print using puts function
  */
 int main(void)
